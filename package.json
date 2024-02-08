@@ -1,0 +1,41 @@
+{
+  "name": "abb-onboarding",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@chakra-ui/icons": "^2.1.1",
+    "@chakra-ui/react": "^2.8.2",
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "@types/js-cookie": "^3.0.6",
+    "axios": "^1.6.2",
+    "axios-auth-refresh": "^3.3.6",
+    "framer-motion": "^10.16.16",
+    "imask": "^7.2.1",
+    "js-cookie": "^3.0.5",
+    "next": "14.0.4",
+    "next-i18next": "^15.1.1",
+    "next-intl": "^3.3.2",
+    "react": "^18",
+    "react-dom": "^18",
+    "react-hook-form": "^7.49.2",
+    "react-input-mask": "^2.0.4",
+    "swr": "^2.2.4"
+  },
+  "devDependencies": {
+    "@hookform/devtools": "^4.3.1",
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "@types/react-input-mask": "^3.0.5",
+    "eslint": "^8",
+    "eslint-config-next": "14.0.4",
+    "typescript": "^5"
+  }
+}
